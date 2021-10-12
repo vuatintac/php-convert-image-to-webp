@@ -1,6 +1,9 @@
 # php-convert-image-to-webp
-php conver image to webp - 
-
+php conver image to webp -  Generate Webp image format
+Convert image file to webp
+Convert jpg to webp using imagewebp
+How to convert png file to webp file
+Convert PNG files with transparency to WebP using PHP GD
 
 
 ```php
